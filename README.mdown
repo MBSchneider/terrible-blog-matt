@@ -1,9 +1,8 @@
-# My New Blog!
+# Fix the terrible blog
 
-I've got a lot to say, and now I have a place to say it!!!!!
+Please see deployed blog at:
 
-Read all my amazing posts!!!!! You can load them into the app with: `rake load_blog:load_shit`
+http://mschneider-terrible-blog.herokuapp.com/
 
-Since I know you want to read them all, I designed my page to show EVERYTHING on the front page of the site!!!!!
-
-I know it is a little slow (but totes worth it!!!!)... _Do you know how I can make it faster?_
+Page load time:
+368 ms for 100 blog posts, or 3.68 ms per blog post
